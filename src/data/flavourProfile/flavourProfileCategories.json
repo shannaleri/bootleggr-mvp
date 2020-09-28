@@ -1,0 +1,66 @@
+{
+    "values":[{
+        "name":"Spice",
+        "level": 1,
+        "color":"#2C2208",
+        "nextList":"spice"
+
+    },
+    {
+        "name":"Sweet",
+        "level": 1,
+        "color":"#9ad8da",
+        "nextList":"sweet"
+
+    },
+    {
+        "name":"Floral",
+        "level": 1,
+        "color":"#F393EE",
+        "nextList":"floral"
+
+    },
+    {
+        "name":"Fruit",
+        "level": 1,
+        "color":"#ED6F17",
+        "nextList":"fruit"
+
+    },
+    {
+        "name":"Other",
+        "level": 1,
+        "color":"#888",
+        "nextList":"other"
+    },
+    {
+        "name":"Peat",
+        "level": 1,
+        "color":"#2C4729",
+        "nextList":"peat"
+
+    },
+    {
+        "name":"Sulphur",
+        "level": 1,
+        "color":"#6C5C1F",
+        "nextList":"sulphur"
+
+    },
+    {
+        "name":"Earth",
+        "level": 1,
+        "color":"#473308",
+        "nextList":"earth"
+
+    },
+    {
+        "name":"Wine",
+        "level": 1,
+        "color":"#6D1825",
+        "nextList":"wine"
+
+    }],
+    "selection":"menu",
+    "level":"base"
+}

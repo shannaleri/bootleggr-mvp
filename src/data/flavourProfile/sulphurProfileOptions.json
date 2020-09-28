@@ -1,0 +1,35 @@
+{
+    "values":[
+        {
+            "name":"Cabbage",
+            "level": 1,
+            "color":"#9abf88"
+
+        },
+        {
+            "name":"Matchbox",
+            "level": 1,
+            "color":"#959595"
+
+        },
+        {
+            "name":"Eraser",
+            "level": 1,
+            "color":"#e4ade5"
+
+        },
+        {
+            "name":"Rubber",
+            "level": 1,
+            "color":"#3a3945"
+
+        },
+        {
+            "name":"Eggs",
+            "level": 1,
+            "color":"#dfcb9d"
+
+        }
+    ],
+    "selection":"multiple"
+}

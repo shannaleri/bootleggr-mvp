@@ -1,0 +1,45 @@
+{
+    "values":[{
+        "name":"Clear",
+        "level": 1,
+        "color":"#FFEDC4"
+
+    },
+    {
+        "name":"Straw",
+        "level": 1,
+        "color":"#fdeb7b",
+        "nextList":"sweet"
+
+    },
+    {
+        "name":"Gold",
+        "level": 1,
+        "color":"gold",
+        "nextList":"floral"
+
+    },
+    {
+        "name":"Amber",
+        "level": 1,
+        "color":"#e38200",
+        "nextList":"fruit"
+
+    },
+    {
+        "name":"Copper",
+        "level": 1,
+        "color":"#a94007",
+        "nextList":"wine"
+
+    },
+    {
+        "name":"Mahogany",
+        "level": 1,
+        "color":"#581d17",
+        "nextList":"peat"
+
+    }],
+    "selection":"multiple",
+    "level":"base"
+}

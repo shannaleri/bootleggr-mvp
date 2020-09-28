@@ -1,0 +1,65 @@
+{
+    "values":[
+        {
+            "name":"Lemon",
+            "level": 1,
+            "color":"#ffe400"
+
+        },
+        {
+            "name":"Pear",
+            "level": 1,
+            "color":"#DD9413"
+
+        },
+        {
+            "name":"Apple",
+            "level": 1,
+            "color":"#D0241F"
+
+        },
+        {
+            "name":"Orange",
+            "level": 1,
+            "color":"#F98E14"
+
+        },
+        {
+            "name":"Banana",
+            "level": 1,
+            "color":"#e5d444"
+
+        },
+        {
+            "name":"Grape",
+            "level": 1,
+            "color":"#731958"
+
+        },
+        {
+            "name":"Cherry",
+            "level": 1,
+            "color":"#c02300"
+
+        },
+        {
+            "name":"Peach",
+            "level": 1,
+            "color":"#ffc023"
+
+        },
+        {
+            "name":"Berry",
+            "level": 1,
+            "color":"#751c97"
+
+        },
+        {
+            "name":"Apricot",
+            "level": 1,
+            "color":"#F5BD72"
+
+        }
+    ],
+    "selection":"multiple"
+}

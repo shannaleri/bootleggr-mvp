@@ -1,0 +1,23 @@
+{
+    "values":[
+        {
+            "name":"Sherry",
+            "level": 1,
+            "color":"#ffe488"
+
+        },
+        {
+            "name":"Port",
+            "level": 1,
+            "color":"#731044"
+
+        },
+        {
+            "name":"Madeira",
+            "level": 1,
+            "color":"#862d5c"
+
+        }
+    ],
+    "selection":"multiple"
+}

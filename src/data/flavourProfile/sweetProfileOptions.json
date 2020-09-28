@@ -1,0 +1,71 @@
+{    
+    "values":[
+        {
+            "name":"Coconut",
+            "level": 1,
+            "color":"#BBBBBB"
+
+        },
+        {
+            "name":"Caramel",
+            "level": 1,
+            "color":"#DD9413"
+
+        },
+        {
+            "name":"Maple",
+            "level": 1,
+            "color":"#D0241F"
+
+        },
+        {
+            "name":"Butterscotch",
+            "level": 1,
+            "color":"#F98E14"
+
+        },
+        {
+            "name":"Vanilla",
+            "level": 1,
+            "color":"#5A4202"
+
+        },
+        {
+            "name":"Cereal",
+            "level": 1,
+            "color":"#F5BD72"
+
+        },
+        {
+            "name":"Honey",
+            "level": 1,
+            "color":"#ffcd3d"
+
+        },
+        {
+            "name":"Fig",
+            "level": 1,
+            "color":"#0a1456"
+
+        },
+        {
+            "name":"Raisin",
+            "level": 1,
+            "color":"#731958"
+
+        },
+        {
+            "name":"Chocolate",
+            "level": 1,
+            "color":"#422700"
+
+        },
+        {
+            "name":"Corn Syrup",
+            "level": 1,
+            "color":"#d6b860"
+
+        }
+    ],
+    "selection":"multiple"
+}

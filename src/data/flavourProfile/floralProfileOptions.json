@@ -1,0 +1,29 @@
+{
+    "values":[
+        {
+            "name":"Rose",
+            "level": 1,
+            "color":"#f692b3"
+
+        },
+        {
+            "name":"Honeysuckle",
+            "level": 1,
+            "color":"#f4e271"
+
+        },
+        {
+            "name":"Geranium",
+            "level": 1,
+            "color":"#d751d1"
+
+        },
+        {
+            "name":"Pine",
+            "level": 1,
+            "color":"#005007"
+
+        }
+    ],
+    "selection":"multiple"
+}

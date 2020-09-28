@@ -1,0 +1,41 @@
+{
+    "values":[
+        {
+            "name":"Iodine",
+            "level": 1,
+            "color":"#122861"
+
+        },
+        {
+            "name":"Band-aids",
+            "level": 1,
+            "color":"#bf9957"
+
+        },
+        {
+            "name":"Tar",
+            "level": 1,
+            "color":"#222222"
+
+        },
+        {
+            "name":"Smoked Salmon",
+            "level": 1,
+            "color":"#d47053"
+
+        },
+        {
+            "name":"Campfire",
+            "level": 1,
+            "color":"#e48e12"
+
+        },
+        {
+            "name":"Medicinal",
+            "level": 1,
+            "color":"#012b32"
+
+        }
+    ],
+    "selection":"multiple"
+}

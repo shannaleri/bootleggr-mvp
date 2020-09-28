@@ -1,0 +1,71 @@
+{
+    "values":[
+        {
+            "name":"Hay",
+            "level": 1,
+            "color":"#d2b572"
+
+        },
+        {
+            "name":"Moss",
+            "level": 1,
+            "color":"#3c643b"
+
+        },
+        {
+            "name":"Dried Leaves",
+            "level": 1,
+            "color":"#93753f"
+
+        },
+        {
+            "name":"Grass",
+            "level": 1,
+            "color":"#276c32"
+
+        },
+        {
+            "name":"Mulch",
+            "level": 1,
+            "color":"#c19518"
+
+        },
+        {
+            "name":"Dirt",
+            "level": 1,
+            "color":"#553f02"
+
+        },
+        {
+            "name":"Forest",
+            "level": 1,
+            "color":"#033d06"
+
+        },
+        {
+            "name":"Herbal",
+            "level": 1,
+            "color":"#65a768"
+
+        },
+        {
+            "name":"Nutty",
+            "level": 1,
+            "color":"#b28f4d"
+
+        },
+        {
+            "name":"Wood",
+            "level": 1,
+            "color":"#d5a03e"
+
+        },
+        {
+            "name":"Brine",
+            "level": 1,
+            "color":"#a3bdc9"
+
+        }
+    ],
+    "selection":"multiple"
+}

@@ -1,0 +1,53 @@
+{
+    "values":[
+        {
+            "name":"Pepper",
+            "level": 1,
+            "color":"#222222"
+
+        },
+        {
+            "name":"Clove",
+            "level": 1,
+            "color":"#3b2403"
+
+        },
+        {
+            "name":"Cinnamon",
+            "level": 1,
+            "color":"#a76404"
+
+        },
+        {
+            "name":"Coffee",
+            "level": 1,
+            "color":"#2e2619"
+
+        },
+        {
+            "name":"Tobacco",
+            "level": 1,
+            "color":"#192e1c"
+
+        },
+        {
+            "name":"Leather",
+            "level": 1,
+            "color":"#564312"
+
+        },
+        {
+            "name":"Anise",
+            "level": 1,
+            "color":"#799773"
+
+        },
+        {
+            "name":"Mint",
+            "level": 1,
+            "color":"#96d28a"
+
+        }
+    ],
+    "selection":"multiple"
+}
